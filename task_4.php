@@ -4,7 +4,7 @@
 <?php
 $users = [
     ['nishan', '9812345678', 'nishan@gmail.com','ktm' ],
-    ['subedi', '9800000000', 'subedi@gmail.com','htd','dkkd'],
+    ['subedi', '9800000000', 'subedi@gmail.com','htd'],
 
 ];
 
